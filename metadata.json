@@ -1,0 +1,6 @@
+{
+  "name": "SBI DISHA Core Dashboard",
+  "description": "Digital Intelligent & Sovereign Operational Agent for retail banking cross-sell and automated dormant recovery in YONO 2.0.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
